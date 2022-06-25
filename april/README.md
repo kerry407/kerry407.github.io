@@ -1,6 +1,6 @@
 # April
 
-A landing page template.
+A landing page for the ProsperousParrots.
 
 * [Getting started](#getting-started)
 
